@@ -6,11 +6,12 @@ Este repositorio contiene la **Especificación de Requisitos de Software (ERS)**
 
 ---
 
-## 👥 Integrantes del Equipo (Dev's) (Grupo4)
-* **Jeam Henry Romero Aguilar** *(Líder de Proyecto / Analista de Requisitos)*
-* **Franz Ludeña** *(Lógica / Componentes de Negocio)*
-* **Alexander Gallo** *(Frontend / Diseño de Experiencia de Usuario)*
-* **Francisco Chamba** *(Testing / Control de Calidad de Requisitos)*
+## 👥 Integrantes del Equipo (Dev's) (GrupoC)
+* **Jeam Henry Romero Aguilar** 
+* **Franz Ludeña** 
+* **Alexander Gallo** 
+* **Francisco Chamba** 
+* **David Ruiz**
 
 * **Asignatura:** Requisitos de Software (3º Ciclo "A")
 * **Docente:** Ing. Edwin René Guamán Quinche
